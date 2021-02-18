@@ -7861,6 +7861,12 @@
     },
     {
         "country": "Brazil",
+        "geonameid": 6323739,
+        "name": "Chapad\u00e3o do Sul",
+        "subcountry": "Mato Grosso do Sul"
+    },
+    {
+        "country": "Brazil",
         "geonameid": 3402271,
         "name": "Ch\u00e3 Grande",
         "subcountry": "Pernambuco"
