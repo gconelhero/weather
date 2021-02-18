@@ -5,6 +5,7 @@ Search:
 [!alt text](https://github.com/gconelhero/jv-weather/blob/main/AppImage01.png)
 
 View details:
+
 [!alt text](https://github.com/gconelhero/jv-weather/blob/main/AppImage02.png)
 
 [!alt text](https://github.com/gconelhero/jv-weather/blob/main/AppImage03.png)
